@@ -28,7 +28,7 @@ a:hover {
 
 .header__wrapper header {
   width: 100%;
-  background: url("../img/bg.jpeg") no-repeat 50% 20% / cover;
+  background: url("/bg.jpeg") no-repeat 50% 20% / cover;
   min-height: calc(60px + 15vw);
 }
 

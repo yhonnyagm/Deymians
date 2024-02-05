@@ -47,8 +47,8 @@ a:hover {
   transform: translatex(-50%);
 }
 .header__wrapper .cols__container .left__col .img__container img {
-  width: 320px;
-  height: 320px;
+  width: 245px;
+  height: 245px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
